@@ -1,4 +1,4 @@
-# AirCare-Plus-W1
+
 # AirCare+ W1 - Environment Setup
 
 ## 📌 Project Description
